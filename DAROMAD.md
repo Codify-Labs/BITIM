@@ -34,9 +34,9 @@ Kurs o'rtacha reytingi 40 ball unda qo'shimcha 50$ bonus:
 Keling xisoblab ko'raylik:
 
 ----
-KURS      - 45 ball 🟢
-MAQOLALAR - 50 ta   🟢
-BONUS     - 50$     🟢
+1. KURS      - 45 ball 🟢
+2. MAQOLALAR - 50 ta   🟢
+3. BONUS     - 50$     🟢
 ----
 DAROMAD: 250$ + 100$ (RO'YHAT ↓) ==> "385$" 💰
 
@@ -45,10 +45,10 @@ DAROMAD: 250$ + 100$ (RO'YHAT ↓) ==> "385$" 💰
 Agar sizning yaratgan kursga 30,000 mingta odam ro'yhattan o'tsa 100$ bonus, keyingi 30,000 odamga 2 baravar ko'payadi:
 
 ----
-Yozilganlar - 60,000  🟢
-KURS        - 45 ball 🟢
-MAQOLALAR   - 50 ta   🟢
-BONUS       - 50$     🟢
+1. Yozilganlar - 60,000  🟢
+2. KURS        - 45 ball 🟢
+3. MAQOLALAR   - 50 ta   🟢
+4. BONUS       - 50$     🟢
 ----
 
 DAROMAD: 300$ + 385$ = "685$" 💰
