@@ -58,4 +58,4 @@ BULAR `<em>..</em>`, `<strong>..</strong>`, `<i>...</i>` VA H.K.
 
 5.1 Ularni faqatgina eng kerakli joylarda ishlatish
 
-5.2 Bir qatorli dastur kodi bo'lsa `...` - lar orasiga yozish.
+5.2 Bir qatorli dastur kodi bo'lsa \`...\` - lar orasiga yozish.
